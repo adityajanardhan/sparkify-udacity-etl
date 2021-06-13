@@ -2,7 +2,7 @@
 
 1. <b>Purpose of the project</b>: To solve business problems, a robust analytics system is required where we can easily query data and get insights. In this scenario, Sparkify wants to analyze songs and user activity on their music streaming app. In this project, we'll achieve this by creating a Postgres database with tables that are well designed and adjusted to optimize queries and to do analysis. The Postgres is built using an ETL pipeline using Python.
 
-2. <b>Database schema design and ETL pipeline</b>: We have used song and log datasets and using them we have created a star schema that are optmimized for song play analysis. The schema is explained below - 
+2. <b>Database schema design and ETL pipeline</b>: We have used song and log datasets and using them we have created a star schema that are optimized for song play analysis. The schema is explained below - 
 
 
 ## Schema for Song Play Analysis
