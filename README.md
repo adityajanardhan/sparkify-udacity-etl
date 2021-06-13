@@ -10,7 +10,7 @@
 ## Fact Table
 
 <ol><li>songplays - records in log data associated with song plays i.e. records with page NextSong</li></ol>
-   <ul><li>songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent<li></ul> 
+   <ul>songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent</ul> 
   
 
 ## Dimension Tables
