@@ -18,11 +18,11 @@
 <ol><li>users - users in the app</li>
    <ul><li>user_id, first_name, last_name, gender, level</li></ul> 
 <li>songs - songs in music database</li>
-   <ul>song_id, title, artist_id, year, duration</ul> 
+   <ul><li>song_id, title, artist_id, year, duration</li></ul> 
 <li>artists - artists in music database</li>
-   <ul>artist_id, name, location, latitude, longitude</ul> 
+   <ul><li>artist_id, name, location, latitude, longitude</li></ul> 
 <li>time - timestamps of records in songplays broken down into specific units</li>
-   <ul>start_time, hour, day, week, month, year, weekday</ul> 
+   <ul><li>start_time, hour, day, week, month, year, weekday</li></ul> 
 </ol> 
     
 
