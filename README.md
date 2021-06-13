@@ -16,14 +16,14 @@
 ## Dimension Tables
 
 <ol><li>users - users in the app</li>
-   <ul><li>user_id, first_name, last_name, gender, level<li></ul> 
+   <ul>user_id, first_name, last_name, gender, level</ul> 
 <li>songs - songs in music database</li>
-   <ul><li>song_id, title, artist_id, year, duration<li></ul> 
+   <ul>song_id, title, artist_id, year, duration</ul> 
 <li>artists - artists in music database</li>
-   <ul><li>artist_id, name, location, latitude, longitude<li></ul> 
+   <ul>artist_id, name, location, latitude, longitude</ul> 
 <li>time - timestamps of records in songplays broken down into specific units</li>
-   <ul><li>start_time, hour, day, week, month, year, weekday<li></ul> 
-</ol>  
+   <ul>start_time, hour, day, week, month, year, weekday</ul> 
+</ol> 
     
 
 ## Files structure
