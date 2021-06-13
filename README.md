@@ -10,13 +10,13 @@
 ## Fact Table
 
 <ol><li>songplays - records in log data associated with song plays i.e. records with page NextSong</li></ol>
-   <ul><li>songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent</li></ul> 
+    <ul><li>songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent</li></ul> 
   
 
 ## Dimension Tables
 
 <ol><li>users - users in the app</li>
-   <ul>user_id, first_name, last_name, gender, level</ul> 
+   <ul><li>user_id, first_name, last_name, gender, level</li></ul> 
 <li>songs - songs in music database</li>
    <ul>song_id, title, artist_id, year, duration</ul> 
 <li>artists - artists in music database</li>
