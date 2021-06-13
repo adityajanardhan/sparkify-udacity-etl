@@ -19,7 +19,7 @@
    <ul><li>user_id, first_name, last_name, gender, level<li></ul> 
 <li>songs - songs in music database</li>
    <ul><li>song_id, title, artist_id, year, duration<li></ul> 
-<li>artists - artists in music database</li></ol>
+<li>artists - artists in music database</li>
    <ul><li>artist_id, name, location, latitude, longitude<li></ul> 
 <li>time - timestamps of records in songplays broken down into specific units</li>
    <ul><li>start_time, hour, day, week, month, year, weekday<li></ul> 
